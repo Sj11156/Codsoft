@@ -34,7 +34,7 @@ def main():
             print(calc.div(num1, num2))
             break
         else:
-            print("Error: Enter appropriate operation (1/2/3/4)")
+            print("invalid option")
 
 if __name__ == "__main__":
     main()
